@@ -1,0 +1,1 @@
+Les adresses IPV6 ont 128 bits 
